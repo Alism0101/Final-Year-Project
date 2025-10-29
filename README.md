@@ -1,8 +1,8 @@
-# Analysis and Prediction of Road Traffic Accident Severity in Bangalore 🚦
+# Analysis and Prediction of Road Traffic Accident Severity in Bangalore 
 
 ## Description
 
-This project analyzes road accident data from Bangalore to understand patterns, identify high-risk hotspots, and attempt to predict accident severity. It includes comprehensive data cleaning, advanced exploratory data analysis (EDA), and predictive modeling phases. The main finding is that while the data provides rich insights for analysis (e.g., identifying when, where, and why severe accidents occur), it is insufficient for reliably predicting rare fatal accidents. The final goal is a web dashboard 📊 to showcase the key analytical findings.
+This project analyzes road accident data from Bangalore to understand patterns, identify high-risk hotspots, and attempt to predict accident severity. It includes comprehensive data cleaning, advanced exploratory data analysis (EDA), and predictive modeling phases. The main finding is that while the data provides rich insights for analysis (e.g., identifying when, where, and why severe accidents occur), it is insufficient for reliably predicting rare fatal accidents. The final goal is a web dashboard  to showcase the key analytical findings.
 
 ---
 
