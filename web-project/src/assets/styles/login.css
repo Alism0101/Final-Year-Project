@@ -249,9 +249,19 @@ body:not(.dark-mode) button[type="submit"] {
 
 @media (max-width: 600px) {
     .watermark {
-        font-size: 2.6rem;
-        transform: translate(-50%, -50%);
-        opacity: 0.9;
+        /* move watermark toward the top and reduce size on small screens */
+        font-size: 2.2rem;
+        top: 8%;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0.65;
+    }
+}
+
+/* Hide watermark on very small narrow screens to avoid overlap */
+@media (max-width: 380px) {
+    .watermark {
+        display: none;
     }
 }
 
